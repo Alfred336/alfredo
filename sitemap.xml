@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Alfred336/alfredo</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/activity</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/issues</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/pulls</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/security</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/main/README.md</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/main/google6f02fcec68bb0ac9.html</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/main/index.html</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/releases</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/search?q=repo%3AAlfred336%2Falfredo++language%3AHTML</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/search?q=repo%3AAlfred336%2Falfredo++language%3ACSS</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/search?q=repo%3AAlfred336%2Falfredo++language%3AJavaScript</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/workflows/static.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/caches</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13979519751</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/6c12e78b1a304c1e35adcc968b44e0a9d9c3d14f</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13979519751/workflow</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913091079</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/18709fa29b3ef080da17033bc5292c108fc4ad5b</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913091079/workflow</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913022788</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/4c917d74f4a077de4e375813b9726b99785ad5af</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913022788/workflow</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13912779827</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/4e3ff2ece22606c3d2c504ad8254a4ec6b4946d1</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13912779827/workflow</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13911863553</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/3827958aca2dcabd43293616a1154ce495dc1a10</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13911863553/workflow</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels?sort=name-asc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels?sort=name-desc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels?sort=count-desc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels?sort=count-asc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/bug</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/documentation</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/duplicate</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/enhancement</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/good%20first%20issue</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/help%20wanted</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/invalid</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/question</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/labels/wontfix</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/main/.github/workflows/static.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13979519751/job/39141452275</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13979519751/usage</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/6c12e78b1a304c1e35adcc968b44e0a9d9c3d14f/.github/workflows/static.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/login?return_to=https%3A%2F%2Fgithub.com%2FAlfred336%2Falfredo%2Fedit%2Fmain%2F.github%2Fworkflows%2Fstatic.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913091079/job/38931104088</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913091079/usage</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/18709fa29b3ef080da17033bc5292c108fc4ad5b/.github/workflows/static.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913022788/job/38930911755</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13913022788/usage</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/4c917d74f4a077de4e375813b9726b99785ad5af/.github/workflows/static.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13912779827/job/38930263940</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13912779827/usage</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/4e3ff2ece22606c3d2c504ad8254a4ec6b4946d1/.github/workflows/static.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13911863553/job/38927595186</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/actions/runs/13911863553/usage</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/608573f0030ae27290e7770102c43da4bf372364</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/blob/3827958aca2dcabd43293616a1154ce495dc1a10/.github/workflows/static.yml</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/5217783fee5e953f5b275e6a80c191ba5026e044</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/10757a4783108f680eb52c09cc37ca867b2e5938</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/81afd39b480b3f4f0c3b8a6c27ca02a89503530d</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/3ccda11cb9fa5edc39d93be3ff499f9370016be5</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/579f4a715d983b0cefc22c5250684150d6c77eb6</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/d3d9a999c611e08b7d784c9eef3069ab683e87e9</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/Alfred336/alfredo/commit/9a9f6dc0de7b48f57fdac783098719fe401c0ae6</loc>
+  <lastmod>2025-03-20T21:19:51+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+
+
+</urlset>
