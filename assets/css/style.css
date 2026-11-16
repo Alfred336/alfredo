@@ -1880,3 +1880,90 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+
+
+
+
+/*-----------------------------------*\
+  #CONTENT ADDITIONS
+\*-----------------------------------*/
+
+/* service icons */
+
+.service-icon-box ion-icon {
+  display: block;
+  margin: auto;
+  color: var(--orange-yellow-crayola);
+  font-size: 40px;
+}
+
+/* skill groups */
+
+.skill-group-title { margin-bottom: 10px; }
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.skill-tag {
+  background: var(--onyx);
+  color: var(--white-2);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-300);
+  padding: 5px 12px;
+  border-radius: 8px;
+}
+
+/* project cards */
+
+.project-cover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background: var(--bg-gradient-onyx);
+  border: 1px solid var(--jet);
+}
+
+.project-cover-icon {
+  color: var(--orange-yellow-crayola);
+  font-size: 56px;
+  transition: var(--transition-1);
+}
+
+.project-item > a:hover .project-cover-icon { opacity: 0.25; }
+
+.project-title { text-transform: none; }
+
+.project-text {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+  margin: 8px 10px 0;
+}
+
+/* contact */
+
+.form-note {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.form-note a {
+  display: inline;
+  color: var(--orange-yellow-crayola);
+}
+
+/* keyboard focus */
+
+:is(a, button, input, textarea):focus-visible {
+  outline: 2px solid var(--orange-yellow-crayola);
+  outline-offset: 2px;
+}
