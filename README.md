@@ -1,38 +1,43 @@
-# Alfred Kalinga - Portfolio
+# Alfred Kalinga — Portfolio
 
-Welcome to my portfolio repository! This repository showcases my skills, projects, and contributions in **IT, software development, networking, and cybersecurity**.
+Source for my personal portfolio site: **https://alfred336.github.io/alfredo/**
 
-## 🚀 About Me
-I am **Alfred Kalinga**, an IT technician, computer scientist, network engineer, software developer, and cybersecurity expert. I specialize in:
-- 🖥️ **Software Development** (Python, Java, PHP, Laravel)
-- 🌐 **Web Development** (Laravel, JavaScript, HTML, CSS)
-- 🔧 **Linux System Administration** (Kali Linux, Ubuntu, CentOS)
-- 🏗 **Network Setup & Security** (Cisco Packet Tracer, Kali Linux, CCNA Training)
-- 🔒 **Cybersecurity** (Pentesting, Network Security, Captive Portals)
+## About me
 
-## 📂 Projects
-Here are some of the projects included in this portfolio:
+I'm Alfred Kalinga, a software developer and IT technician based in Dar es Salaam, Tanzania. I work across:
 
-### 1️⃣ **[Highneck Safaris](https://www.highnecksafaris.com/)**
-- A professional tour and safari service website built using **Laravel** and **PHP**.
+- **Web development** — PHP, Laravel, JavaScript, HTML, CSS
+- **Software development** — Python, Java, PHP
+- **Linux administration** — Ubuntu, CentOS, Kali Linux
+- **Networking** — network design and setup, Cisco Packet Tracer, captive portals
+- **Cybersecurity** — network security analysis and penetration testing
 
-### 2️⃣ **Network Setup with Captive Portal (Nodogsplash)**
-- Implemented a secure Wi-Fi network with a **captive portal** using **Kali Linux** and **Nodogsplash**.
+## Projects
 
-### 3️⃣ **Cybersecurity Tools & Pentesting Scripts**
-- Developed various Python and Bash scripts for **network security analysis and penetration testing**.
+| Project | Area | Summary |
+| --- | --- | --- |
+| [Highneck Safaris](https://www.highnecksafaris.com/) | Web development | Tour and safari company website built with Laravel and PHP. |
+| Wi-Fi network with captive portal | Networking | Secured Wi-Fi network with a sign-in portal, set up with Nodogsplash on Linux. |
+| Security and pentesting scripts | Cybersecurity | Python and Bash scripts for network security analysis and penetration testing. |
+| Enterprise network simulations | Networking | Enterprise network designs built and tested in Cisco Packet Tracer. |
 
-### 4️⃣ **CCNA Network Simulations**
-- Designed and simulated enterprise networks using **Cisco Packet Tracer**.
+## About this site
 
-## 🔧 Installation & Usage
-If any of the projects in this repository require installation, follow the respective instructions in their subdirectories.
+A static site with no build step: plain HTML, CSS and JavaScript.
 
-## 📬 Contact Me
-📧 **Email:** [alfredkalinga99@.com](mailto:alfredkalinga99@.com)    
-🐦 **X:** [@alfredkalinga99](https://X.com/)  
-💼 **LinkedIn:** [Alfred Kalinga](https://linkedin.com/)  
+```
+index.html            page content
+assets/css/style.css  styles
+assets/js/script.js   tab navigation, project filter, contact form
+assets/images/        images and icons
+```
 
----
+To preview it, open `index.html` in a browser. Every push to `main` is published to GitHub Pages by the workflow in `.github/workflows/static.yml`.
 
-Feel free to explore my work, contribute, or get in touch with me for collaborations! 🚀
+The layout is based on the open-source [vCard personal portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) template by codewithsadee.
+
+## Contact
+
+- Email: [alfredkalinga99@gmail.com](mailto:alfredkalinga99@gmail.com)
+- X: [@alfredkalinga99](https://x.com/alfredkalinga99)
+- GitHub: [@Alfred336](https://github.com/Alfred336)
